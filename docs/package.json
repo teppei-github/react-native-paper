@@ -20,7 +20,7 @@
     "@babel/node": "^7.7.7",
     "@babel/plugin-proposal-class-properties": "^7.7.4",
     "@babel/preset-env": "^7.7.7",
-    "@babel/preset-flow": "^7.0.0",
+    "@babel/preset-flow": "^7.7.4",
     "@babel/preset-react": "^7.6.3",
     "@babel/preset-typescript": "^7.6.0",
     "del-cli": "^3.0.0",
