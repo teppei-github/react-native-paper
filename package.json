@@ -50,7 +50,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.7.7",
-    "@babel/runtime": "^7.4.4",
+    "@babel/runtime": "^7.7.7",
     "@callstack/eslint-config": "^6.1.0",
     "@commitlint/config-conventional": "^7.5.0",
     "@react-native-community/bob": "^0.4.1",
