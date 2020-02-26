@@ -110,6 +110,7 @@ class Dialog extends React.Component<Props> {
         dismissable={dismissable}
         onDismiss={onDismiss}
         visible={visible}
+        theme={theme}
         contentContainerStyle={[
           {
             borderRadius: theme.roundness,
